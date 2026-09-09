@@ -1,0 +1,49 @@
+{
+  "appName": "Island Face Paint",
+  "screenshots": [
+    {
+      "file": "assets/iphone-01.png",
+      "kind": "real_selection_ui",
+      "sha256": "4cebf5fa618a1269c318e00dcabd59990a9375f1ef22b782caa6842e65547ce3",
+      "deviceFamily": "iphone",
+      "order": 1
+    },
+    {
+      "file": "assets/iphone-02.png",
+      "kind": "synthetic_marketing",
+      "sha256": "39950d73ba82d351d5dc88debd16457999ff8b6a45a15a1803a154cb39a1352a",
+      "deviceFamily": "iphone",
+      "order": 2
+    },
+    {
+      "file": "assets/iphone-03.png",
+      "kind": "synthetic_marketing",
+      "sha256": "6597f1e655ff336a302a079e9ce747889411c1c3cd7c6206a96d3f38deac37c1",
+      "deviceFamily": "iphone",
+      "order": 3
+    },
+    {
+      "file": "assets/ipad-01.png",
+      "kind": "real_selection_ui",
+      "sha256": "deb876f592834bcb9073ec88cc175327ee563a348afdc920bb8160d2eb1b1bab",
+      "deviceFamily": "ipad",
+      "order": 1
+    },
+    {
+      "file": "assets/ipad-02.png",
+      "kind": "synthetic_marketing",
+      "sha256": "a1f5881141cc10b39bfe28613d2642473597eac87e77affc1f4aa6c7e6b9aa4f",
+      "deviceFamily": "ipad",
+      "order": 2
+    },
+    {
+      "file": "assets/ipad-03.png",
+      "kind": "synthetic_marketing",
+      "sha256": "3c3916c6c012a89cf477f381ee0d5ff86224a64841610327062512b896071df3",
+      "deviceFamily": "ipad",
+      "order": 3
+    }
+  ],
+  "iconSHA256": "4d375de3b33ed43c2d811183a7eb576aa07ad90b628e5c30e375f7907c8b4d1e",
+  "imageEditing": "None. Exact approved icon and final screenshot files copied."
+}
